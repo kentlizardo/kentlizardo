@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there!
+## Who am I?
+I'm Kent, a software engineer, gamedev, and hobbyist.
 
-<!--
-**kentlizardo/kentlizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I originally learned coding through the internet but was formally taught at UIC, earning a B.S. in Computer Science with a concentration in Software Engineering. I fell in love with making all kinds of things like apps, art, music, and games.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can learn more about me [on my personal website](https://www.kentmakes.games)!
+### Key Skills
+- C#/.NET
+- C and C++
+- Python
+- Frontend
+- Godot & Unity
+- Git
+- JIRA and Agile
